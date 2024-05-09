@@ -1,2 +1,0 @@
-import{_ as t}from"./ContentWrap.vue_vue_type_script_setup_true_lang-ytEdI6w6.js";import{l as e,m as a,S as o,R as r,V as s,u as m}from"./vue-chunks-DuYwYYUM.js";import"./index-C3b06j3A.js";import"./element-plus-t0Lc7SBq.js";/* empty css                  */const l=e({__name:"TDT",setup(_){return(n,p)=>(a(),o(m(t),{title:"TDT"},{default:r(()=>[s(" TDT ")]),_:1}))}});export{l as default};
-//# sourceMappingURL=TDT-BRfiTZf9.js.map
