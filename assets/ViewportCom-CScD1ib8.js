@@ -1,0 +1,2 @@
+import{l as r,m as c,p as i}from"./vue-chunks-DuYwYYUM.js";import{_ as s}from"./index-BnHiHPD0.js";import"./element-plus-t0Lc7SBq.js";const a=(t,o=1920)=>{let e=window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth;if(!e)return t;let n=e/o;return Number((t*n).toFixed(3))},d={class:"viewport"},m=r({__name:"ViewportCom",setup(t){return console.log(a(100)),(o,e)=>(c(),i("div",d," 111 "))}}),f=s(m,[["__scopeId","data-v-a864faf7"]]);export{f as default};
+//# sourceMappingURL=ViewportCom-CScD1ib8.js.map
